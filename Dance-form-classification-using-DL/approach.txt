@@ -1,0 +1,3 @@
+For classification of dance forms i have build the Convolutional neural network using Keras Libray. 
+It perform the back-propogation and minimize the weights to improve the performance. 
+  
